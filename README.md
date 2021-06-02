@@ -16,7 +16,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
 
-<img src="imagenes/tabla.png" width="300">
+<img src="imagenes/tabla.png" width="400">
 
 3.2 Armar el circuito que se muestra en la siguiente figura,en la herramienta tinkercad para posteriormente simularlo.
 
