@@ -9,6 +9,13 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Tema:** LEYES DE KIRCHHOFF
 #### 1. OBJETIVOS (BONIFAZ)
+
+- Comprender y analizar mediante la simulacion de un circuito y la medicion respectiva de los valores de voltaje e intensidad de cada uno de los componentes, para demostrar la Ley de Kirchhoff de voltajes y la ley de Kirchhoff de corrientes presentes en el circuito.
+
+- Obtener mediante calculos los valores teoricos de voltaje e intensidad de los componentes del cicuito, para hallar el porcentaje de error junto con los resultados medidos.
+
+- Comparar los datos obtenidos analiticamente con los resultados medidos en el circuito y verificar si cumple con las leyes de Kirchhoff previamente conocidas. 
+
 #### 2. MARCO TEÓRICO (BONIFAZ Y JACOME)
 **Ley de Kirchhoff de Corrientes** (JACOME)
 
