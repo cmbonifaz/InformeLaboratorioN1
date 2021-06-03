@@ -50,6 +50,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR (JACOME Y SANDOVAL)
 
 Se redujo el circuito para poder hacer un circuito mas simple 
+
 ![circuito 1](https://user-images.githubusercontent.com/85208164/120670419-04b2f280-c456-11eb-8ed8-e4a17d2f8b52.png)
 
 Sumamos las resistencias R3 Y R4 porque están en serie:
