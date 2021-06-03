@@ -45,7 +45,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 
 3.5 Verificar si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anotar los resultados en la tabla 1.3.
-
+<img src="imagenes/tablacorrientes.png" width="500">
 3.6 Comparar los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR (JACOME Y SANDOVAL)
