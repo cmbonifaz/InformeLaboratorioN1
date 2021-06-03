@@ -13,6 +13,9 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 **Ley de Kirchhoff de Corrientes** (JACOME)
 
 **Ley de Kirchhoff de Voltaje** (BONIFAZ)
+
+<img src="imagenes/ley%20voltajes.png" width="900">
+
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
 
