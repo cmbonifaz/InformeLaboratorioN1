@@ -18,6 +18,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 2. MARCO TEÓRICO (BONIFAZ Y JACOME)
 **Ley de Kirchhoff de Corrientes** (JACOME)
+<img src="imagenes/ley%20corrientes.png" width="900">
 
 **Ley de Kirchhoff de Voltaje** (BONIFAZ)
 
