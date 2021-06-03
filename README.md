@@ -104,6 +104,9 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 10V=9.997V
 
 #### 5. VIDEO
+
+[Simulación de Circuito - Laboratorio N°1](https://youtu.be/-xr2uzpexBU "Simulación de Circuito - Laboratorio N°1")
+
 #### 6. CONCLUSIONES (SANDOVAL)
 •	Concluimos que en la mayoría de los casos los valores obtenidos durante la práctica presentan una alta precisión con respecto a los valores obtenidos mediante el uso de las leyes de Kirchhoff y el uso de programas computacionales que permitan simular los circuitos implementados.
 
