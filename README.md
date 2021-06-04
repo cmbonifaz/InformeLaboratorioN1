@@ -103,6 +103,17 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 10V=2.054+2.123V+2.123V+3.697V
 10V=9.997V
 
+**Suma de corrientes de Nodos**
+<img src="imagenes/corrientes.png" width="500"> 
+**Nodo 1**
+Sumando las corrientes medidas en el simulador
+<img src="imagenes/respuesta1.png" width="500">
+**Nodo 2**
+Sumando las corrientes medidas en el simulador
+<img src="imagenes/respuesta2.png" width="500"> 
+El porcentaje de error entre los calculos y las medidas es minima
+<img src="imagenes/tablaerror.png" width="500"> 
+
 #### 5. VIDEO
 
 [Simulación de Circuito - Laboratorio N°1](https://youtu.be/-xr2uzpexBU "Simulación de Circuito - Laboratorio N°1")
