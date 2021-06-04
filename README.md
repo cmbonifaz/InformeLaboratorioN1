@@ -37,16 +37,22 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 ![tabla1 1](https://user-images.githubusercontent.com/85208164/120669648-442d0f00-c455-11eb-9227-5e83041b9639.png)
 
-3.4 Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anotar los resultados en la tabla 1.2.
+3.4 Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada y Anotar los resultados en la tabla 1.2. de cada uno de sus componentes
 
-![trayectoria 1](https://user-images.githubusercontent.com/85208164/120670002-99692080-c455-11eb-9350-899af3999bdf.png) ![trayectoria 2](https://user-images.githubusercontent.com/85208164/120670027-9f5f0180-c455-11eb-8e60-288e6cc595d1.png)
+<img src="imagenes/voltaje.png" width="475">
+
+![trayectoria 1](https://user-images.githubusercontent.com/85208164/120670002-99692080-c455-11eb-9350-899af3999bdf.png) 
+
+![trayectoria 2](https://user-images.githubusercontent.com/85208164/120670027-9f5f0180-c455-11eb-8e60-288e6cc595d1.png)
 
 ![trayectoria 3](https://user-images.githubusercontent.com/85208164/120670058-a71ea600-c455-11eb-9685-631b8162fe39.png)
 
 
 3.5 Verificar si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anotar los resultados en la tabla 1.3.
 
-<img src="imagenes/tablacorrientes.png" width="600">
+<img src="imagenes/corriente.png" width="475">
+
+<img src="imagenes/tablacorrientes.png" width="475">
 
 3.6 Comparar los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
