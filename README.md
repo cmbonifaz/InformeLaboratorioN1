@@ -109,6 +109,7 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 
 **Nodo 1**
 Sumando las corrientes medidas en el simulador
+
 <img src="imagenes/respuesta1.png" width="500">
 
 **Nodo 2**
