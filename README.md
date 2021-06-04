@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 **Docente:** Ing. Darwin Alulema
 
 **Tema:** LEYES DE KIRCHHOFF
-#### 1. OBJETIVOS (BONIFAZ)
+#### 1. OBJETIVOS 
 
 - Comprender y analizar mediante la simulacion de un circuito y la medicion respectiva de los valores de voltaje e intensidad de cada uno de los componentes, para demostrar la Ley de Kirchhoff de voltajes y la ley de Kirchhoff de corrientes presentes en el circuito.
 
@@ -16,11 +16,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 - Comparar los datos obtenidos analiticamente con los resultados medidos en el circuito y verificar si cumple con las leyes de Kirchhoff previamente conocidas. 
 
-#### 2. MARCO TEÓRICO (BONIFAZ Y JACOME)
-**Ley de Kirchhoff de Corrientes** (JACOME)
+#### 2. MARCO TEÓRICO 
+**Ley de Kirchhoff de Corrientes**
 <img src="imagenes/leycorrientes.png" width="900">
 
-**Ley de Kirchhoff de Voltaje** (BONIFAZ)
+**Ley de Kirchhoff de Voltaje** 
 
 <img src="imagenes/ley%20voltajes.png" width="900">
 
@@ -50,7 +50,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.6 Comparar los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
-#### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR (JACOME Y SANDOVAL)
+#### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 Se redujo el circuito para poder hacer un circuito mas simple 
 
@@ -125,7 +125,7 @@ El porcentaje de error entre los calculos y las medidas es minima
 
 [Simulación de Circuito - Laboratorio N°1](https://youtu.be/-xr2uzpexBU "Simulación de Circuito - Laboratorio N°1")
 
-#### 6. CONCLUSIONES (SANDOVAL)
+#### 6. CONCLUSIONES 
 •	Concluimos que en la mayoría de los casos los valores obtenidos durante la práctica presentan una alta precisión con respecto a los valores obtenidos mediante el uso de las leyes de Kirchhoff y el uso de programas computacionales que permitan simular los circuitos implementados.
 
 •	Concluimos que la teoría física como lo son las leyes de Kirchhoff permite a la humanidad modelar la realidad de una de las tres fuerzas fundamentales del universo como lo es la fuerza electro débil en modelos con gran precisión, afirmación que puedo ser comprobada durante la presente práctica.
@@ -135,5 +135,10 @@ El porcentaje de error entre los calculos y las medidas es minima
 #### 7. BIBLIOGRAFÍA
 
 Ingenieria Mecafenix. (s.f.). Ingenieria Mecafenix. Obtenido de https://www.ingmecafenix.com/electronica/ley-de-corriente-de-kirchhoff/
+
 MecatronicaLATAM. (22 de Abril de 2021). MecatronicaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+Ley de voltajes de Kirchhoff - Electrónica Unicrom. (2018). Recuperado 3 Junio 2021, de https://unicrom.com/ley-de-voltajes-de-kirchhoff/
+
+Leyes de Kirchhoff. (2019). Recuprado 3 Junio 2021, de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
