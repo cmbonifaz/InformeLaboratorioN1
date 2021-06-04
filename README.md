@@ -133,3 +133,7 @@ El porcentaje de error entre los calculos y las medidas es minima
 •	Los datos recopilados durante la práctica se asemejan a los valores obtenidos a través de los respectivos cálculos, pero en ciertas ocasiones, la diferencia entre los datos varía en una gran escala, convirtiéndose en datos dudosos, para despejar errores.
 
 #### 7. BIBLIOGRAFÍA
+
+Ingenieria Mecafenix. (s.f.). Ingenieria Mecafenix. Obtenido de https://www.ingmecafenix.com/electronica/ley-de-corriente-de-kirchhoff/
+MecatronicaLATAM. (22 de Abril de 2021). MecatronicaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
