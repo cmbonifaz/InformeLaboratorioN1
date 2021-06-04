@@ -91,7 +91,7 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 
 ![5](https://user-images.githubusercontent.com/85208164/120672648-1c8b7600-c458-11eb-9afb-ab610c4a1b1e.png)
 
-
+![trayectoria 1](https://user-images.githubusercontent.com/85208164/120670002-99692080-c455-11eb-9350-899af3999bdf.png) 
 
 
 - **TRAYECTORIA 2**
@@ -100,6 +100,7 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 
 ![6](https://user-images.githubusercontent.com/85208164/120672188-b1da3a80-c457-11eb-8f5d-12cc136682a0.png)
 
+![trayectoria 2](https://user-images.githubusercontent.com/85208164/120670027-9f5f0180-c455-11eb-8e60-288e6cc595d1.png)
 
 
 - **TRAYECTORIA 3**
@@ -108,6 +109,10 @@ Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos a
 
 10V=2.054+2.123V+2.123V+3.697V
 10V=9.997V
+
+![trayectoria 3](https://user-images.githubusercontent.com/85208164/120670058-a71ea600-c455-11eb-9685-631b8162fe39.png)
+
+<img src="imagenes/Captura%20de%20pantalla%20(330).png" width="500"> 
 
 **Suma de corrientes de Nodos**
 
@@ -122,6 +127,9 @@ Sumando las corrientes medidas en el simulador
 Sumando las corrientes medidas en el simulador
 
 <img src="imagenes/respuesta2.png" width="500"> 
+
+<img src="imagenes/tablacorrientes.png" width="475">
+
 El porcentaje de error entre los calculos y las medidas es minima
 
 <img src="imagenes/tablaerror.png" width="500"> 
